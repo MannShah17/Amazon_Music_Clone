@@ -1,0 +1,26 @@
+.subscription-container {
+  padding: 20px;
+}
+
+.subscription-plans {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.subscription-plan {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 30%;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.subscription-plan h3 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.subscription-plan p {
+  color: #666;
+}
